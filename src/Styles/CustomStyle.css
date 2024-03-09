@@ -1,0 +1,27 @@
+.main-navbar {
+  background: plum;
+  margin:0;
+}
+.main-navbar li {
+  list-style: none;
+  display:inline-block;
+  margin:20px;
+}
+
+.user-form{
+  width:400px;
+  height:300px;
+  margin:50px auto;
+  border:1px solid black;
+  border-radius:5px;
+  padding:10px;
+}
+
+table{
+  width:500px%;
+  margin:20px auto 50px auto;
+}
+
+table td{
+  border:1px solid black;
+}
