@@ -18,10 +18,22 @@
 }
 
 table{
-  width:500px%;
+  width:500px;
   margin:20px auto 50px auto;
 }
 
 table td{
   border:1px solid black;
 }
+
+.actors{
+  width:500px;
+  margin:0 auto;
+  border:1px solid black;
+  border-radius:5px;
+  margin-bottom:10px;
+  text-align:center;
+  color:white;
+  background:black;
+}
+
